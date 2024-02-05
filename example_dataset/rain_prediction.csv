@@ -1,0 +1,9 @@
+﻿Humidity,Outlook,Rain
+high,cloudy,yes
+low,sunny,no
+mid,overcast,no
+mid,overcast,yes
+high,cloudy,no
+high,overcast,no
+mid,cloudy,yes
+low,sunny,no
